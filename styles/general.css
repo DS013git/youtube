@@ -1,0 +1,21 @@
+p {
+    font-family: roboto,arial;
+}
+body {
+    margin : 0;
+}
+
+.title{
+    margin-top: 15;
+    margin-bottom: 15px;
+}
+
+.all{
+    
+    font-family: arial;
+}
+.name {
+    font-family: arial;
+    font-size: 15px;
+    color:rgb(96,96,96);
+}
